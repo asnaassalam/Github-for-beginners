@@ -16,12 +16,12 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 
 <!-- Add your introduction below this line -->
 
-### [Your Name Here]
-- **GitHub Username:** @yourusername
-- **Location:** 
-- **Background:** 
-- **Learning Goals:** 
-- **Fun Fact:** 
-- **Date Added:** 
+### Asna Assalam
+- **GitHub Username:** @asnaassalam
+- **Location:** Colombo
+- **Background:** Software Engineer
+- **Learning Goals:** Master Git workflows and collaborative development
+- **Fun Fact:** I enjoy breaking things... just so i can fix them later
+- **Date Added:** April 5th, 2026
 
 
